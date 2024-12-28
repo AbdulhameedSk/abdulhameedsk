@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Full-Stack Development**
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **DevOps and Go**
 
 - 👯 I'm looking to collaborate on **making projects**
 
