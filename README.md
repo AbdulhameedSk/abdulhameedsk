@@ -13,11 +13,11 @@
 
 - 🤝 I’m looking for help with **Skill-Growth**
 
-- 💬 Ask me about **Web Development and LLM's**
+- 💬 Ask me about **Web Development and Go Lang**
 
 - 📫 How to reach me **shaikabdulhameedd@gmail.com**
 
-- ⚡ Fun fact **I Love Gaming**
+- ⚡ Fun fact **I Love Gaming and Travelling**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
