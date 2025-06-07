@@ -6,7 +6,6 @@
 
 <p align="left"> <a href="https://twitter.com/codeace_abdul" target="blank"><img src="https://img.shields.io/twitter/follow/codeace_abdul?logo=twitter&style=for-the-badge" alt="codeace_abdul" /></a> </p>
 
-
 <div style="display: flex">
 <p align="left">
   <em>
@@ -14,9 +13,8 @@
 
   </em>  
 </p>
-<img src="/assets/fighting.gif">
+<img src="/assets/fighting.gif" align="right">
 </div>
-
 
 <h3 align="left">Connect with me:<img src="/assets//connect.gif" width="20px"></h3>
 <p align="left">
