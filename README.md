@@ -8,7 +8,7 @@
 <div style="display: flex">
 <p align="left">
   <em>
- Hey there! I’m an experienced Full-Stack Developer <img src="/assets/Developer.gif" width="30px"> who loves building cool stuff and working with awesome people.I’ve worked on both frontend and backend projects and always look forward to learning something new—whether it’s a fresh tech stack<img src="/assets/Designer.gif" width="30px">, an exciting idea, or even a new spoken language (yes, I love learning languages too! <img src="Assets/Rocket.gif" width="18px">).
+ Hey there! I’m an experienced Full-Stack Developer <img src="/assets/Developer.gif" width="30px"> who loves building cool stuff and working with awesome people.I’ve worked on both frontend and backend projects and always look forward to learning something new—whether it’s a fresh tech stack<img src="/assets/Designer.gif" width="30px">, an exciting idea, or even a new spoken language (yes, I love learning languages too!<img src="Assets/Rocket.gif" width="18px">).
 
   </em>  
 </p>
