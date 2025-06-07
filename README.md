@@ -13,7 +13,7 @@
 
   </em>  
 </p>
-<img src="/assets/fighting.gif" align="right">
+<img src="/assets/fighting.gif" align="center">
 </div>
 
 <h3 align="left">Connect with me:<img src="/assets//connect.gif" width="20px"></h3>
