@@ -10,16 +10,12 @@
   <em>
  Hey there! I’m an experienced Full-Stack Developer <img src="/assets/Developer.gif" width="30px"> who loves building cool stuff and working with awesome people.
 
-I’ve worked on both frontend and backend projects and always look forward to learning something new—whether it’s a fresh tech stack, an exciting idea, or even a new spoken language (yes, I love learning languages too! <img src="Assets/learning.png" width="30px">).
+I’ve worked on both frontend and backend projects and always look forward to learning something new—whether it’s a fresh tech stack<img src="/assets/Designer.gif" width="30px">, an exciting idea, or even a new spoken language (yes, I love learning languages too! <img src="Assets/Rocket.gif" width="18px">).
 
-I'm super curious by nature and always up for exploring anything interesting—be it in tech, ideas, or conversations. If you’ve got a unique skill, a cool project, or just want to chat about something exciting, let’s connect!<img src="/assets//connect.gif" width="20px">
-
-Who knows, we might learn from each other and grow together. <img src="Assets/Rocket.gif" width="18px">
   </em>  
 </p>
 
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:<img src="/assets//connect.gif" width="20px"></h3>
 <p align="left">
 <a href="https://twitter.com/codeace_abdul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codeace_abdul" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shaik-abdulhameed-366ba523b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shaik-abdulhameed-366ba523b" height="30" width="40" /></a>
@@ -78,11 +74,7 @@ Who knows, we might learn from each other and grow together. <img src="Assets/Ro
     </td>
   </tr>
 
-  
 </table>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulhameedsk&show_icons=true&locale=en&layout=compact" alt="abdulhameedsk" /></p>
 
-
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulhameedsk&" alt="abdulhameedsk" /></p>
-
