@@ -1,9 +1,22 @@
-<h1 align="center">Hi 👋, I'm SHAIK ABDULHAMEED</h1>
-<h3 align="center">A passionate Full-Stack developer from India</h3>
+<h1 align="center">SHAIK ABDULHAMEED<img src="/assets/roronoa_zoro.jpeg" width="30"/></h1>
+<h3 align="center">Full-Stack developer</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulhameedsk&label=Profile%20views&color=0e75b6&style=flat" alt="abdulhameedsk" /> </p>
 
 <p align="left"> <a href="https://twitter.com/codeace_abdul" target="blank"><img src="https://img.shields.io/twitter/follow/codeace_abdul?logo=twitter&style=for-the-badge" alt="codeace_abdul" /></a> </p>
+
+<p>
+  <em>
+ Hey there! I’m an experienced Full-Stack Developer <img src="/assets/Developer.gif" width="30px"> who loves building cool stuff and working with awesome people.
+
+I’ve worked on both frontend and backend projects and always look forward to learning something new—whether it’s a fresh tech stack, an exciting idea, or even a new spoken language (yes, I love learning languages too! <img src="Assets/learning.png" width="30px">).
+
+I'm super curious by nature and always up for exploring anything interesting—be it in tech, ideas, or conversations. If you’ve got a unique skill, a cool project, or just want to chat about something exciting, let’s connect!<img src="/assets//connect.gif" width="20px">
+
+Who knows, we might learn from each other and grow together. <img src="Assets/Rocket.gif" width="18px">
+  </em>  
+</p>
 
 
 <h3 align="left">Connect with me:</h3>
@@ -14,18 +27,16 @@
 <a href="https://www.leetcode.com/shaikabdulhameed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shaikabdulhameed" height="30" width="40" /></a>
 <a href="https://discord.gg/Msyr8tvvuT" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Msyr8tvvuT" height="30" width="40" /></a>
 </p>
-## ✅ Languages and Frameworks
+<img src="/assets/Mario_Gameplay.gif">
+<h2> ✅ Languages and Frameworks</h2>
 
 <table>
   <tr>
     <td><strong>Programming Languages</strong></td>
     <td>
       <img src="https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white"/>
-      <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white"/>
-      <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
       <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white"/>
       <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
-      <img src="https://img.shields.io/badge/Kotlin-7F52FF.svg?style=flat-square&logo=kotlin&logoColor=white"/>
       <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E"/>
       <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=flat-square&logo=typescript&logoColor=white"/>
       <img src="https://img.shields.io/badge/SQL-4479A1.svg?style=flat-square&logo=postgresql&logoColor=white"/>
@@ -50,7 +61,6 @@
     <td>
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
       <img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Flask-000000.svg?style=flat-square&logo=flask&logoColor=white"/>
       <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white"/>
       <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
@@ -64,32 +74,15 @@
     <td>
       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
       <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Google%20Cloud-4285F4.svg?style=flat-square&logo=google-cloud&logoColor=white"/>
       <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
-      <img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=google-cloud&logoColor=white"/>
-      <img src="https://img.shields.io/badge/ChromaDB-FF00FF?style=flat-square"/>
     </td>
   </tr>
 
-  <tr>
-    <td><strong>AI / ML Libraries</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Anthropic-000000?style=flat-square"/>
-      <img src="https://img.shields.io/badge/LangChain-5A5FC7?style=flat-square"/>
-      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white"/>
-      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
-    </td>
-  </tr>
+  
 </table>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulhameedsk&show_icons=true&locale=en&layout=compact" alt="abdulhameedsk" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulhameedsk&show_icons=true&locale=en" alt="abdulhameedsk" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulhameedsk&" alt="abdulhameedsk" /></p>
+
