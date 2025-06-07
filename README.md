@@ -5,19 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/codeace_abdul" target="blank"><img src="https://img.shields.io/twitter/follow/codeace_abdul?logo=twitter&style=for-the-badge" alt="codeace_abdul" /></a> </p>
 
-- 🔭 I’m currently working on **Full-Stack Development**
-
-- 🌱 I’m currently learning **DevOps and GoLang**
-
-- 👯 I'm looking to collaborate on **making projects**
-
-- 🤝 I’m looking for help with **Skill-Growth**
-
-- 💬 Ask me about **Web Development and Go Lang**
-
-- 📫 How to reach me **shaikabdulhameedd@gmail.com**
-
-- ⚡ Fun fact **I Love Gaming and Travelling**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
