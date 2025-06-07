@@ -5,16 +5,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulhameedsk&label=Profile%20views&color=0e75b6&style=flat" alt="abdulhameedsk" /> </p>
 
 <p align="left"> <a href="https://twitter.com/codeace_abdul" target="blank"><img src="https://img.shields.io/twitter/follow/codeace_abdul?logo=twitter&style=for-the-badge" alt="codeace_abdul" /></a> </p>
-
-<p>
+<div style="display: flex">
+<p align="left">
   <em>
- Hey there! I’m an experienced Full-Stack Developer <img src="/assets/Developer.gif" width="30px"> who loves building cool stuff and working with awesome people.
-
-I’ve worked on both frontend and backend projects and always look forward to learning something new—whether it’s a fresh tech stack<img src="/assets/Designer.gif" width="30px">, an exciting idea, or even a new spoken language (yes, I love learning languages too! <img src="Assets/Rocket.gif" width="18px">).
+ Hey there! I’m an experienced Full-Stack Developer <img src="/assets/Developer.gif" width="30px"> who loves building cool stuff and working with awesome people.I’ve worked on both frontend and backend projects and always look forward to learning something new—whether it’s a fresh tech stack<img src="/assets/Designer.gif" width="30px">, an exciting idea, or even a new spoken language (yes, I love learning languages too! <img src="Assets/Rocket.gif" width="18px">).
 
   </em>  
 </p>
-
+<img src="/assets/fighting.gif" align="right">
+</div>
 <h3 align="left">Connect with me:<img src="/assets//connect.gif" width="20px"></h3>
 <p align="left">
 <a href="https://twitter.com/codeace_abdul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codeace_abdul" height="30" width="40" /></a>
