@@ -14,7 +14,7 @@
 
   </em>  
 </p>
-<img src="/assets/fighting.gif" align="right">
+<img src="/assets/fighting.gif">
 </div>
 
 
