@@ -8,14 +8,19 @@
 
 <div style="display: flex">
 <p>
-  <em>
- Hey there! I’m an experienced Full-Stack Developer <img src="/assets/Developer.gif" width="30px"> who loves building cool stuff and working with awesome people.I’ve worked on both frontend and backend projects and always look forward to learning something new—whether it’s a fresh tech stack<img src="/assets/Designer.gif" width="30px">, an exciting idea, or even a new spoken language (yes, I love learning languages too!<img src="Assets/Rocket.gif" width="18px">).
+  <em><div align="left">
+
 
   </em>  
 </p>
-<img src="/assets/fighting.gif">
 </div>
+<img align="right" height="175" src="/assets/fighting.gif">
 
+<div align="left">
+
+ Hey there! I’m an experienced Full-Stack Developer <img src="/assets/Developer.gif" width="30px"> who loves building cool stuff and working with awesome people.I’ve worked on both frontend and backend projects and always look forward to learning something new—whether it’s a fresh tech stack<img src="/assets/Designer.gif" width="30px">, an exciting idea, or even a new spoken language.
+  
+</div>
 <h3 align="left">Connect with me:<img src="/assets//connect.gif" width="20px"></h3>
 <p align="left">
 <a href="https://twitter.com/codeace_abdul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codeace_abdul" height="30" width="40" /></a>
