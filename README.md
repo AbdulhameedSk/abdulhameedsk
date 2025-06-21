@@ -14,7 +14,7 @@
   </em>  
 </p>
 </div>
-<img align="right" height="175" src="/assets/zoro.gif">
+<img align="right" height="175" src="/assets/zoro_me.gif">
 
 <div align="left">
 
