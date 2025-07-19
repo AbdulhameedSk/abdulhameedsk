@@ -1,5 +1,8 @@
-<h1 align="center">SHAIK ABDULHAMEED<img src="/assets/roronoa_zoro.jpeg" width="30"/></h1>
-<h3 align="center">Full-Stack developer</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<h1 align="center">SHAIK ABDULHAMEED
+<!--   <img src="/assets/roronoa_zoro.jpeg" width="30"/> -->
+</h1>
+<h3 align="center">Full-Stack developer</a>
+<!--   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  -->
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulhameedsk&label=Profile%20views&color=0e75b6&style=flat" alt="abdulhameedsk" /> </p>
@@ -18,7 +21,7 @@
 
 <div align="left">
 
- Hey there! I’m an experienced Full-Stack Developer <img src="/assets/Developer.gif" width="30px"> who loves building cool stuff and working with awesome people.I’ve worked on both frontend and backend projects and always look forward to learning something new—whether it’s a fresh tech stack<img src="/assets/Designer.gif" width="30px">, an exciting idea, or even a new spoken language.
+ Hey there! I’m an experienced Full-Stack Developer who loves building cool stuff and working with awesome people.I’ve worked on both frontend and backend projects and always look forward to learning something new—whether it’s a fresh tech stack, an exciting idea, or even a new spoken language.
   
 </div>
 <h3 align="left">Connect with me:<img src="/assets//connect.gif" width="20px"></h3>
@@ -29,8 +32,8 @@
 <a href="https://www.leetcode.com/shaikabdulhameed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shaikabdulhameed" height="30" width="40" /></a>
 <a href="https://discord.gg/Msyr8tvvuT" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Msyr8tvvuT" height="30" width="40" /></a>
 </p>
-<img src="/assets/Mario_Gameplay.gif">
-<h2> ✅ Languages and Frameworks</h2>
+<!-- <img src="/assets/Mario_Gameplay.gif"> -->
+<h2>  Languages and Frameworks</h2>
 
 <table>
   <tr>
