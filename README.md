@@ -28,9 +28,9 @@
 <p align="left">
 <a href="https://twitter.com/codeace_abdul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codeace_abdul" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shaik-abdulhameed-366ba523b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shaik-abdulhameed-366ba523b" height="30" width="40" /></a>
-<a href="https://instagram.com/ska_1718" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ska_1718" height="30" width="40" /></a>
+<!-- <a href="https://instagram.com/ska_1718" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ska_1718" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shaikabdulhameed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shaikabdulhameed" height="30" width="40" /></a>
-<a href="https://discord.gg/Msyr8tvvuT" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Msyr8tvvuT" height="30" width="40" /></a>
+<a href="https://discord.gg/Msyr8tvvuT" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Msyr8tvvuT" height="30" width="40" /></a> -->
 </p>
 <!-- <img src="/assets/Mario_Gameplay.gif"> -->
 <h2>  Languages and Frameworks</h2>
