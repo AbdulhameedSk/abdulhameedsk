@@ -17,8 +17,8 @@
   </em>  
 </p>
 </div>
-<img align="right" height="175" src="/assets/zoro_me.gif">
-
+<!-- <img align="right" height="175" src="/assets/zoro_me.gif">
+ -->
 <div align="left">
 
  Hey there! I’m an experienced Full-Stack Developer who loves building cool stuff and working with awesome people.I’ve worked on both frontend and backend projects and always look forward to learning something new—whether it’s a fresh tech stack, an exciting idea, or even a new spoken language.
